@@ -1,53 +1,100 @@
-<h1 align="center">Hi there 👋, I'm Deepak Maurya</h1>
+# 👋 Hi, I'm Deepak Maurya
 
-<p align="center">
-  <em>Industrial Automation Specialist | Robotics Developer | Tech Explorer</em><br>
-</p>
-
----
-
-🔧 **What I Do**
-- 🏭 Working on **robotic automation solutions** in manufacturing environments
-- 🤖 Building systems with **2D/3D LiDAR**, **SCARA & Delta robots**, and **autonomous mobile robots (AMRs)**
-- 📸 Implementing **vision systems** using **YOLOv8**, **OpenCV**, and **camera control**
-- 🔌 Developing with **EtherCAT**, **PLC (OMRON, Siemens)**, and **motion control protocols**
-- 🧠 Learning and experimenting with **AI/ML**, **Python**, **C++**, **Rust**, and **ROS2**
+🎓 M.Tech in Robotics & Computer Vision | IIT Jodhpur  
+🤖 Robotics | AI | Computer Vision | Autonomous Systems  
+🌐 [LinkedIn](https://www.linkedin.com/in/dmaurya3) | 📧 maurya.3@alumni.iitj.ac.in | 📱 +91 8858793819  
+💼 GitHub: [mauryadk](https://github.com/mauryadk) | Alt: dmaurya3
 
 ---
 
-📦 **Projects & Tools I Work With**
-- `Python`, `C++`, `Rust`, `Flask`, `ROS2`, `FastAPI`
-- `YOLOv8`, `OpenCV`, `MongoDB`, `SQLite`, `RTSP`, `TCP/UDP`
-- `EtherCAT`, `SCADA`, `ASRS`, `SCARA`, `Delta Robot`, `PLC`
+## 🧠 About Me
+
+I’m a Robotics and Computer Vision Engineer with deep industry and research experience in AI-driven automation, autonomous mobile robots, and intelligent perception systems. From designing multi-task CNNs for industrial sorting to integrating robotic vision with PLCs and building ROS2 navigation stacks—I bring hands-on expertise to solve real-world problems at the edge.
 
 ---
 
-🛠️ **Currently Building**
-- A vision-based **multi-camera intrusion detection system**
-- A GUI-based simulation for **Delta robot kinematics**
-- Lightweight real-time flow monitoring using **2D LiDAR**
+## 💼 Experience
+
+### 🚀 **Anzo Controls Pvt. Ltd.** — *Lead Engineer – Robotics, AI & Computer Vision*  
+📍 Gurugram, Haryana | 🗓 Oct 2022 – Present
+
+- Developed AI vision-based **sorting and defect detection** solutions for packaging lines.
+- Designed, trained, and deployed **multi-task CNNs** for real-time SKU classification and quality checks on **NVIDIA Jetson Xavier**.
+- Integrated models with industrial **PLC systems over Modbus-TCP** for seamless automation.
+- Built preprocessing pipelines and performance evaluation tools using **PyTorch + OpenCV**.
+- Architected a **fleet management system** for mobile robots with sensor fusion, motion planning, and real-time decision making.
+- Mentored junior engineers in ML, CNNs, and deployment strategies.
+
+### 🛰️ **Zebu Intelligent Systems** — *Robotics Software Engineer*  
+📍 Onsite | 🗓 Feb 2022 – Sep 2022
+
+- Built **semantic segmentation pipeline** using U-Net for aerial landing site detection.
+- Managed data preprocessing, augmentation, labeling, and **hyperparameter tuning**.
+- Evaluated models using **IoU & Dice metrics**, optimizing them for **embedded inference**.
+- Delivered stakeholder presentations with detailed performance insights.
+
+### 🧪 **IIT Jodhpur – ISRO** — *Junior Research Fellow (Computer Vision)*  
+📍 Jodhpur, Rajasthan | 🗓 Aug 2021 – Feb 2022
+
+- Implemented **Position-Based Visual Servoing (PBVS)** for humanoid robotic arm using vision feedback.
+- Designed **singularity avoidance algorithms**, integrated **inverse kinematics** and **Jacobian-based** planning.
+- Simulated using **ROS + Gazebo**, and coordinated with ISRO’s IISU team for deployment specs.
 
 ---
 
-📈 **Career Snapshot**
-- 💼 Accenture – Automation & Vision Solutions (since 2022)
-- 📰 ABP News Group, Next Education, Allen Cooper – Past leadership & field experience
-- 🎓 MBA (Finance & Marketing) | BBA – MGKVP, Varanasi
+## 📌 Key Projects
+
+### 🟦 **Real-Time Carton Sorting**  
+**Technologies**: PyTorch, Jetson Xavier, OpenCV  
+- Built and deployed **CNN-based model** to classify carton types and detect packaging defects.
+- Optimized for **real-time embedded performance** in industrial settings.
+
+### 🌍 **Aerial Landing Site Detection**  
+**Technologies**: TensorFlow, U-Net, Image Segmentation  
+- Designed and validated a **semantic segmentation model** for drone landing zones.
+- Custom preprocessing and **robust generalization** to diverse terrain.
 
 ---
 
-🌱 **Always Learning**
-- Machine Learning and Deep Learning workflows
-- Real-time systems with Rust and embedded protocols
-- Clean code, design patterns, and efficient architectures
+## 🧰 Skills & Tools
+
+**Languages**: Python, C++, Bash  
+**Frameworks**: ROS2, OpenCV, PyTorch, TensorFlow, FastAPI  
+**Simulation**: Gazebo, RViz  
+**Embedded**: Jetson Xavier, Modbus-TCP, Industrial LiDARs, IMUs  
+**Tools**: Docker, Git, Jira, SQLite, Linux  
+**Other**: Software Architecture, Real-Time Systems, UI/UX Integration
 
 ---
 
-📫 **Let's Connect**
-- 📍 Varanasi, India
-- 📨 Reach out on [LinkedIn](https://www.linkedin.com) (or your actual link)
-- 🛠️ Portfolio / Blog (optional if you have one)
+## 🏆 Publications
+
+📘 **Segregation of Multiple Robots Using Model Predictive Control With Asynchronous Path Smoothing**  
+*6th IEEE CCTA (Control Systems Society Conference), 2022* — Co-author  
+> Proposed MPC-based optimal control strategy with asynchronous path smoothing for robot segregation without prior knowledge of shape, size, or direction.
 
 ---
 
-💡 *"Driven by curiosity. Focused on solving real-world problems with smart automation."*
+## 🌱 Currently Exploring
+
+- ML for edge deployment in robotics  
+- Multimodal sensor fusion for industrial perception  
+- Real-time cloud-integrated robotics systems
+
+---
+
+## 🎯 Interests
+
+🎨 Art & design  
+🏸 Table tennis & badminton  
+🌍 Traveling  
+🧠 R&D in AI, ML, and real-world robotics
+
+---
+
+📬 Reach Out:  
+📧 maurya.3@alumni.iitj.ac.in  
+📱 +91 8858793819  
+🔗 [LinkedIn](https://www.linkedin.com/in/dmaurya3)
+
+---
